@@ -2,4 +2,4 @@
 # Displays the current running processes containing the bash word, in a user-oriented format.
 # shellcheck disable=SC2009
 
-ps -faux | grep "bash"
+ps -faux | less
