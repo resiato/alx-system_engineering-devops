@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Display Best School 10 times and Hi at the ninth iteration using while and if functions
 
-n=1
+n=0
 while [ $n -lt 11 ]
 do
         if [ $n = 9 ]
